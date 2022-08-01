@@ -1,3 +1,3 @@
 # README.txt
 
-hi git 
+hi git mirinae 브랜치 시
